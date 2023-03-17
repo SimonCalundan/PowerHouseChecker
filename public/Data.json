@@ -1,0 +1,109 @@
+{
+  "afgange": [
+    {
+      "id": 1,
+      "afgang": "08:59",
+      "afgangBusGaden": "09:14"
+    },
+    {
+      "id": 2,
+      "afgang": "09:29",
+      "afgangBusGaden": "09:44"
+    },
+    {
+      "id": 3,
+      "afgang": "10:00",
+      "afgangBusGaden": "10:14"
+    },
+    {
+      "id": 4,
+      "afgang": "10:30",
+      "afgangBusGaden": "10:44"
+    },
+    {
+      "id": 5,
+      "afgang": "11:00",
+      "afgangBusGaden": "11:14"
+    },
+    {
+      "id": 6,
+      "afgang": "11:30",
+      "afgangBusGaden": "11:44"
+    },
+    {
+      "id": 7,
+      "afgang": "12:00",
+      "afgangBusGaden": "12:14"
+    },
+    {
+      "id": 8,
+      "afgang": "12:30",
+      "afgangBusGaden": "12:44"
+    },
+    {
+      "id": 9,
+      "afgang": "13:00",
+      "afgangBusGaden": "13:14"
+    },
+    {
+      "id": 10,
+      "afgang": "13:30",
+      "afgangBusGaden": "13:44"
+    },
+    {
+      "id": 11,
+      "afgang": "14:00",
+      "afgangBusGaden": "14:14"
+    },
+    {
+      "id": 12,
+      "afgang": "14:30",
+      "afgangBusGaden": "14:44"
+    },
+    {
+      "id": 13,
+      "afgang": "15:00",
+      "afgangBusGaden": "15:14"
+    },
+    {
+      "id": 14,
+      "afgang": "15:30",
+      "afgangBusGaden": "15:44"
+    },
+    {
+      "id": 15,
+      "afgang": "16:00",
+      "afgangBusGaden": "16:14"
+    },
+    {
+      "id": 16,
+      "afgang": "16:57",
+      "afgangBusGaden": "17:14"
+    },
+    {
+      "id": 17,
+      "afgang": "17:57",
+      "afgangBusGaden": "18:14"
+    },
+    {
+      "id": 18,
+      "afgang": "18:57",
+      "afgangBusGaden": "19:14"
+    },
+    {
+      "id": 19,
+      "afgang": "19:57",
+      "afgangBusGaden": "20:14"
+    },
+    {
+      "id": 20,
+      "afgang": "20:57",
+      "afgangBusGaden": "21:14"
+    },
+    {
+      "id": 21,
+      "afgang": "21:57",
+      "afgangBusGaden": "22:14"
+    }
+  ]
+}
